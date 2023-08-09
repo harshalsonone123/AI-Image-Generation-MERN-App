@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/harshalsonone123/AI-Image-Generation-MERN-App">
-    <img src="https://images.nightcafe.studio//assets/tdraw-girl.jpg?tr=w-1200,c-at_max" alt="Logo" width="400" height="250">
+    <img src="https://images.nightcafe.studio//assets/tdraw-girl.jpg?tr=w-1200,c-at_max" alt="Logo" width="400" height="400">
   </a>
 
 <h3 align="center"></h3>
