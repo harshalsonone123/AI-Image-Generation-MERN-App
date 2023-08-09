@@ -38,7 +38,7 @@
 
 ## About The Project
 
-![ Image](https://drive.google.com/file/d/1MBvrx3k75X_UyodhjK46nNQPgAxT2qaX/view?usp=sharing)
+![ Image](https://i.imgur.com/es6vSI1.png)
 
 ### Live Project
 
